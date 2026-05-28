@@ -24,7 +24,7 @@ existing diffusion-based methods often fail.
 
 ## Datasets/ Models
 Download [datasets](https://drive.google.com/drive/folders/1PjuhJrJLxUhhG4Hd84X1n-QeFVFZOF0y?usp=share_link) CelebA, Cifar10, Cifar100, SVHN, and TinyImages.
-Download [Models](https://drive.google.com/drive/folders/1Cptc8lxjpGY4MecaAzIbz7S18tc7J8mZ?usp=share_link)
+Download [Models](https://drive.google.com/drive/folders/1xyaa-MVYP9AmYFKSe-b7VRGcS7rsG4Is?usp=share_link)
 
 
 ## Requirement
